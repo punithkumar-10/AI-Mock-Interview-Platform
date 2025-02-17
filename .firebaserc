@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "ai-mock-interview-yt-react-ts"
-  }
+    "default": "ai-mock-interview-platfo-c9350",
+    "ai-mock-interview-platform": "ai-mock-interview-platfo-c9350"
+  },
+  "targets": {},
+  "etags": {}
 }

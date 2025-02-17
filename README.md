@@ -18,9 +18,7 @@ The AI Mock Interview Platform is an innovative application designed to help job
 
 - **Frontend**: Developed using [Next.js](https://nextjs.org/) and styled with [Tailwind CSS](https://tailwindcss.com/) for a responsive and intuitive user interface.
 
-- **Backend**: Built with [Node.js](https://nodejs.org/) and [Express](https://expressjs.com/), ensuring robust and scalable server-side operations.
-
-- **Database**: Utilizes [PostgreSQL](https://www.postgresql.org/) managed through [Drizzle ORM](https://orm.drizzle.team/) for efficient data handling and storage.
+- **Backend and Database**: Utilizes Firebase for backend services and database management, providing real-time data synchronization and user authentication.
 
 - **AI Integration**: Incorporates the [Gemini API](https://geminiapi.com/) to generate intelligent, context-aware interview questions and feedback.
 

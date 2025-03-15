@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-We extend our gratitude to the developers and communities of [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [PostgreSQL](https://www.postgresql.org/), [Drizzle ORM](https://orm.drizzle.team/), and the [Gemini API](https://geminiapi.com/) for their invaluable tools and support.
+We extend our gratitude to the developers and communities of [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Node.js](https://nodejs.org/), [Express](https://expressjs.com/) and the [Gemini API](https://geminiapi.com/) for their invaluable tools and support.
 
 ---
 
